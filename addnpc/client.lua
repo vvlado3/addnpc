@@ -3,8 +3,7 @@
 -------====https://docs.fivem.net/docs/game-references/ped-models/----===
 
 local coords = {
-    {-56.800365447998,-785.83428955078,43.227298736572,"",500.77,0xC99F21C4,"a_m_y_business_01"},
-    {441.91,-978.79,29.70,"",176.75,0x15F8700D,"s_f_y_cop_01"}
+    {441.91,-978.79,29.70,"",176.75,0x15F8700D,"s_f_y_cop_01"},
 }
 
 Citizen.CreateThread(function()
