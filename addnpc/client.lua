@@ -1,6 +1,4 @@
----1. Променливи -- cordinati, ped
----2. for цикъл
--------====https://docs.fivem.net/docs/game-references/ped-models/----===
+
 
 local coords = {
     {441.91,-978.79,29.70,"",176.75,0x15F8700D,"s_f_y_cop_01"},
