@@ -1,4 +1,4 @@
-#in server.cfg
+#server.cfg
 
 start addnpc
 
